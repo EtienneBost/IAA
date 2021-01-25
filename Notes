@@ -1,0 +1,19 @@
+Enregistrement des couleurs dans une matrice avec fréquence d'apparition. 
+Zones de pixels et recadrage des images pour les grandes.
+Couleur -> Formes ? -> ... ?
+
+
+Idées des autres groupes:
+	hiérarchisation des filtres, avec filtre eau, mer, ciel, (batîment) 
+
+
+
+25/01/21 
+      Salim a fait un premier Moment de couleur (premier jet stats) en calculant les fréquences d'apparition de couleurs
+	 et en calculant les images les plus proches des données d'apprentissage.
+      Une remarque a été vue - les nuances de bleu sont entre 0 et 50 de forte intensité.
+     
+      Une remarque du prof - utliser le cadrillage des images et utiliser notre classifieur sur les cases/zones.
+			   - utiliser l'(es) opérat(s) de convolution : https://fr.wikipedia.org/wiki/Produit_de_convolution
+	sur les images pour calculer l'orientation des formes et s'informer sur la texture des images. 
+  
